@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robert Kilkenny</h1>
-<h3 align="center">A passionate backend developer from Oviedo, Florida</h3>
+<h1 align="left">Hi 👋, I'm Robert Kilkenny</h1>
+<h3 align="left">A passionate backend developer from Oviedo, Florida</h3>
 
 - 🔭 I’m currently working on **securing a Summer 2024 internship**
 
