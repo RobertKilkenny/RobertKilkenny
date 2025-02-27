@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Robert Kilkenny</h1>
-<h3 align="left">A passionate backend developer from Oviedo, Florida🍊</h3>
+<h3 align="left">A passionate frontend developer from Oviedo, Florida🍊</h3>
 
-- 🔭 I will be graduating this Fall Semester so I am pursuing my first job in **Software Development**!
+- 🔭 New Graduate from the University of Florida (Dec 2024) pursuing my first job in **Software Development**!
 
 - 🌱 I’m currently learning **React and CSS Tailwind**
 
